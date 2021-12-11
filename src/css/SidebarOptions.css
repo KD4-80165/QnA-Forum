@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Fruktur&family=Lobster&family=Philosopher&family=Zen+Antique&display=swap");
+.sidebarOptions{
+    display: flex;
+    flex-direction: column;
+}
+.sidebarOption{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    cursor: pointer;
+}
+.sidebarOption:hover{
+    background-color: rgb(215, 244, 255);
+    border-radius: 5px;
+}
+.sidebarOption > img{
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.sidebarOption > p{
+    margin-left: 10px;
+    color: black;
+    font-weight: 400;
+    font-family: 'Zen Antique', serif;
+}
+.sidebarOption > .MuiSvgIcon-root {
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+}

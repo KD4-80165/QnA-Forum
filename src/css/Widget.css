@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Fruktur&family=Lobster&family=Philosopher&family=Zen+Antique&display=swap");
+.widget{
+    display: flex;
+    flex-direction: column;
+    flex: 0.2;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    max-height: 100%;
+}
+.widget__header{
+    border-bottom: 1px solid black;
+}
+.widget__header > h3{
+    padding: 10px;
+    color: black;
+    font-family: 'Zen Antique', serif;
+}
+.widget__contents{
+    display: flex;
+    flex-direction: column;
+}

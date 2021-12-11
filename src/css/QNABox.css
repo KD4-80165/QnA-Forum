@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Fruktur&family=Lobster&family=Philosopher&family=Zen+Antique&display=swap");
+.qnabox{
+    display: flex;
+    margin-right: 30px;
+    flex-direction: column;
+    padding: 15px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.qnabox:hover{
+    border: 1px solid rgb(35, 180, 247);
+    
+}
+.qnabox__info{
+    display: flex;
+    align-items: center;
+}
+.qnabox__info > h5 {
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+    font-family: 'Zen Antique', serif;
+}
+.qnabox__qna{
+    display: flex;
+    margin-top: 8px;
+    font-family: 'Zen Antique', serif;
+}
+.qnabox__qna{
+    color: black;
+    font-weight: 650;
+    font-size: large;
+}
