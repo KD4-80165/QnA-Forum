@@ -1,4 +1,5 @@
 Question-Answer Forum For College
+It is similar to "Quora"
 Motivation:
 As per the situation of lockdown the only way to interact with teachers, classmates, etc is the online mode. But many a times due to some reasons we don’t get the required response on time. So this Question-Answer forum will help everyone to get their doubts solve, get different solutions to their problems.
 This forum will provide a platform for students where they can ask their doubts and get solutions to their problems.
