@@ -1,6 +1,5 @@
 Question-Answer Forum For College
 
-It is similar to "Quora"
 <br />
 In this project react is used for the frontend, firebase for the backend, redux for state management tool and Material-UI for icons, react-modal for question and answer box.
 <br />
